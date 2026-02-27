@@ -1,0 +1,30 @@
+2026-02-26 22:28:25,253 - INFO - Job started
+2026-02-26 22:28:25,287 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-02-26 22:28:25,316 - ERROR - Missing required column: close
+2026-02-26 22:31:10,059 - INFO - Job started
+2026-02-26 22:31:10,059 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-02-26 22:31:10,099 - ERROR - Missing required column: close
+2026-02-26 22:32:18,287 - INFO - Job started
+2026-02-26 22:32:18,287 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-02-26 22:32:18,302 - ERROR - Missing required column: close
+2026-02-26 22:33:16,286 - INFO - Job started
+2026-02-26 22:33:16,287 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-02-26 22:33:16,302 - INFO - Rows loaded: 10000
+2026-02-26 22:33:16,341 - INFO - Metrics: {'version': 'v1', 'rows_processed': 10000, 'metric': 'signal_rate', 'value': 0.4989, 'latency_ms': 55, 'seed': 42, 'status': 'success'}
+2026-02-26 22:33:16,341 - INFO - Job completed successfully
+2026-02-26 17:05:06,654 - INFO - Job started
+2026-02-26 17:05:06,659 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-02-26 17:05:06,688 - ERROR - Missing required column: close
+2026-02-26 17:23:16,100 - INFO - Job started
+2026-02-26 17:23:16,113 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-02-26 17:23:16,162 - INFO - Rows loaded: 10000
+2026-02-26 17:23:16,170 - INFO - Metrics: {'version': 'v1', 'rows_processed': 10000, 'metric': 'signal_rate', 'value': 0.4989, 'latency_ms': 82, 'seed': 42, 'status': 'success'}
+2026-02-26 17:23:16,171 - INFO - Job completed successfully
+2026-02-26 22:59:35,728 - INFO - Job started
+2026-02-26 22:59:35,728 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-02-26 22:59:35,753 - ERROR - Missing required column: close
+2026-02-26 23:08:08,665 - INFO - Job started
+2026-02-26 23:08:08,680 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-02-26 23:08:08,692 - INFO - Rows loaded: 10000
+2026-02-26 23:08:08,695 - INFO - Metrics: {'version': 'v1', 'rows_processed': 10000, 'metric': 'signal_rate', 'value': 0.4989, 'latency_ms': 29, 'seed': 42, 'status': 'success'}
+2026-02-26 23:08:08,695 - INFO - Job completed successfully
